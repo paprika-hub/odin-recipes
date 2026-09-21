@@ -15,7 +15,7 @@ This project will exclude other topics such as css and javascript since those to
 ### Dependencies
 <!--Describe any prerequisites, libraries, OS version, etc., needed before installing program.
 * ex. Windows 10-->
-This project only needs a web browser to display the projectgi
+This project needs a web browser to display the website
 
 ### Installing
 <!--* How/where to download your program
