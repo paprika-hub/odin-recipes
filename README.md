@@ -4,11 +4,11 @@
 Simple overview of use/purpose.
 
 -->
-This project will use the lessons learned from Odin about HTML to create a simple html website about food recipes.
+This project will use the lessons learned from Odin-Foundations about HTML to create a simple website about food recipes. Also, this project will use the extension Prettier to do the default formatting of the files. 
 
 ## Description
 <!--An in-depth paragraph about your project and overview of use.-->
-This project will exclude other topics such as css and javascript since those topics will be learned in another chapter. 
+This project will exclude other topics such as css and javascript since those topics will be learned in another chapter of the odin lessons. 
 
 ## Getting Started
 
@@ -29,8 +29,10 @@ This project needs a web browser to display the website
 code blocks for commands
 -->
 ```
+From the terminal you can use the following command:
 open index.html
 ```
+
 
 ## Help
 <!--
@@ -39,6 +41,7 @@ Any advise for common problems or issues.
 command to run if program contains helper info
 ```
 -->
+
 ## Authors
 
 <!--Contributors names and contact info-->
@@ -53,9 +56,9 @@ command to run if program contains helper info
 <!--
 This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
 -->
-
+NA
 
 ## Acknowledgments
-
-Inspiration, code snippets, etc.
+This project is the solution of the exercise called "Recipes" from the chapter Foundations. 
+<!--Inspiration, code snippets, etc.-->
 <!--* [awesome-readme](https://github.com/matiassingers/awesome-readme)-->
