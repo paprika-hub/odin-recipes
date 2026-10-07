@@ -1,0 +1,50 @@
+.document{
+    background-color: #F4F1E8;
+}
+a{
+    text-decoration: none;
+    color: black;
+    background-color: none;
+}
+
+.document-header{
+    text-align: center;
+    
+}
+.header-title{
+    color: #2D3A1F;
+}
+.header-text{
+    color: rgb(101, 15, 15);
+}
+.author-photo{
+    font-size: small;
+    text-align: right;
+    position: absolute;
+    top: 390px;
+    width: 400px;
+    background-color: rgba(128, 128, 128, 0.244);
+    color: rgb(27, 25, 25);
+}
+.cakes{
+    width: 400px;
+    border-radius: 10px;
+    
+}
+
+.nav-con{
+    display: inline;
+    margin: 0 10px;
+    
+    
+}
+.nav-text{
+    padding: 2px;
+    color: #2D3A1F;
+    text-decoration: none;
+    border-radius: 2px;
+}
+.nav-text:hover{
+    background-color: rgba(96, 123, 67, 0.033)
+    
+}
